@@ -1,6 +1,6 @@
-# Dataset Augmentation
-
-## PENS
-### Instructions
-Download the original dataset from this **source** and save it in the appropriate directory. Make the necessary adjustments to the file paths in the scripts or experiments to reflect the new location of the dataset. \
-**Souce :** https://msnews.github.io/pens.html
+Steps:
+1. Download PENS dataset
+2. Run PENS_augmentation.py in Scripts
+3. Save the synthetic-original.csv dataset
+4. Run DS/DoubleShuffling.ipynb on it
+5. Run perturbation/perturbation_D2.ipynb

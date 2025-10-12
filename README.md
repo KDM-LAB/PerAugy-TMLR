@@ -109,3 +109,8 @@ After completing all steps, you’ll obtain:
 * Make sure all dependencies are installed before running the notebooks.
 * Intermediate datasets are saved automatically after each step.
 * You can tweak parameters in the Jupyter notebooks for different experimental settings.
+
+## Links
+
+* Paper :- https://openreview.net/forum?id=JVx7Qi8tz3
+* Datasets :- https://doi.org/10.6084/m9.figshare.30327451

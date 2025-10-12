@@ -2,13 +2,13 @@
 
 This repository provides a step-by-step pipeline for preparing and processing the PENS dataset for sequential recommendation tasks using synthetic user interaction graphs (UIGs).
 
-## 📦 Dataset
+## Dataset
 
 * **PENS Dataset**: Includes `train`, `validation`, `test`, and `news` sets.
 
 ---
 
-## ⚙️ Processing Steps
+## Processing Steps
 
 ### 1. Download the PENS Dataset
 
@@ -95,7 +95,7 @@ UserID, ClickedNewsID, PositiveNewsID, NegativeNewsID
 
 ---
 
-## 📁 Output
+## Output
 
 After completing all steps, you’ll obtain:
 
@@ -104,7 +104,7 @@ After completing all steps, you’ll obtain:
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Make sure all dependencies are installed before running the notebooks.
 * Intermediate datasets are saved automatically after each step.
